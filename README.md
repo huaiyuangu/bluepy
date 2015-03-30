@@ -1,3 +1,16 @@
+2015-3-3 :    
+forked from nio-blocks/bluepy, and added some testing codes for the BLE devices. Now it's capable for testing multiple BLE devices at same time due to python threading & Bluetooth stack on Linux.    
+
+Testing Environment Setup:
+=========================
+Ubuntu 14 (linux kernel > 3.6 required)     
+necessary dev libs & Bluez, according to the [link](http://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/).      
+bluetooth 4.0 dongle     
+
+
+
+
+
 bluepy
 ======
 
