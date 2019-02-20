@@ -1,5 +1,9 @@
-2015-3-3 :    
-forked from nio-blocks/bluepy, and added some testing codes for the BLE devices. Now it's capable for testing multiple BLE devices at same time due to python threading & Bluetooth stack on Linux.    
+Introduction:
+========================= 
+forked from nio-blocks/bluepy, and added some testing codes for the BLE devices. Now it's capable for concurrently driver multiple BLE devices through python threading & Bluetooth stack on Linux.    
+
+
+
 
 Testing Environment Setup:
 =========================
